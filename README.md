@@ -6,8 +6,8 @@
 
 _**Instrumental Conditioning**_
 
-__**Pavlovian Conditioning**__
+_**Pavlovian Conditioning**_
 
-__**Transfer Test**__
+_**Transfer Test**_
 
-__**Devaluation Test**__
+_**Devaluation Test**_
