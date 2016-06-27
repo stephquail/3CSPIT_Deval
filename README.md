@@ -4,4 +4,4 @@
 
 ## STAGES
 
-_*Contingency Variation*_
+_**Contingency Variation**_
