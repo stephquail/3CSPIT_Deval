@@ -4,4 +4,10 @@
 
 ## STAGES
 
-_**Contingency Variation**_
+_**Instrumental Conditioning**_
+
+__**Pavlovian Conditioning**__
+
+__**Transfer Test**__
+
+__**Devaluation Test**__
